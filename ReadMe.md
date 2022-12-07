@@ -1,11 +1,11 @@
-#Advent of Code 2022
+# Advent of Code 2022
 
 Programming exercises given via  [Advent of Code](https://adventofcode.com/2022) where a new exercise is given each day in December until the 25th.
 
 My exercises are written in **Python3**.
 Each script is separated by day and has a *unique* input per user, which has been placed in an **"input.txt"** found in each directory.
 
-###Prompts
+### Prompts
 
 |**Days 1 - 5**| **Days 6 - 10**| **Days 7 - 15**| **Days 16 - 20**|**Days 21 - 25**|
 | -------------|-------------|-------------|-------------|-------------|
